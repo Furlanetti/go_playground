@@ -1,6 +1,6 @@
 # GoLang Playground
 
-## /api
+## Basic API Project
 Creates a basic API with two routes, one GET and one POST that will return a message.
 Also creates one test file to test those routes.
 
